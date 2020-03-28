@@ -5,7 +5,9 @@ Final Project for CS 330 Structure of Programming Languages | Grade: A
 See it in action on repl.it: https://repl.it/@kayamoon/MovieReviewSentimentAnalysis
 
 
-This program prompts the user to type in a movie review, and predicts the sentiment of the review (negative, somewhat negative, neutral, etc). The analysis is based on data from past Rotten Tomatoes movie reviews.
+
+# This program prompts the user to type in a movie review, and predicts the sentiment of the review (negative, somewhat negative, neutral, etc). The analysis is based on data from past Rotten Tomatoes movie reviews.
+
 
 **My Program:**
 - Reads in the movie reviews from a large text file
