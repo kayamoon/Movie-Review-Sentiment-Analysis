@@ -1,8 +1,7 @@
-# Movie-Review-Sentiment-Analysis
+## Movie Review Sentiment Analysis: Final Project for CS 330 Structure of Programming Languages
+## Grade: A
 
-Final Project for CS 330 Structure of Programming Languages | Grade: A
-
-See it in action on repl.it: https://repl.it/@kayamoon/MovieReviewSentimentAnalysis
+[See it in action on repl.it](https://repl.it/@kayamoon/MovieReviewSentimentAnalysis)
 
 
 
